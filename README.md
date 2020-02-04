@@ -1,2 +1,2 @@
 # Cross_Zero
-A Tic-Tac-Toe in React-Native using expo
+A Tic-Tac-Toe Game in React-Native using expo
